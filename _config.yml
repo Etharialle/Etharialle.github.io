@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: Christopher Adams
+logo: /assets/img/profile_pic.jpg
 description: Systems Engineer, PMP, Data Analyst 
+show_downloads: true
+theme: jekyll-theme-minimal
